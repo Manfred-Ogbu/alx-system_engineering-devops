@@ -7,3 +7,4 @@ Task 5. Write a script that adds execute permission to the owner of the file hel
 Task 6. Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 Task 7. Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 Task 7. James Bond.
+Task 9. John Doe.
