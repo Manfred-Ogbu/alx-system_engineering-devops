@@ -18,3 +18,4 @@ Task 16. Create a script that deletes all files in the current working directory
 Task 17. Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Task 17. Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Task 18. Life is a series of commas, not periods.
+Task 19. Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
